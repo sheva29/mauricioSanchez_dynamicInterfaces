@@ -1,0 +1,15 @@
+body {
+
+
+}
+
+#main {
+
+	width: 500px;
+	height: 500px;
+	background-color: black;
+	border:2px solid;
+	border-radius:25px;
+	margin: 20px auto;
+
+}
