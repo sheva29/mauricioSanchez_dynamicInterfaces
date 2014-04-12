@@ -13,3 +13,6 @@ results
 
 npm-debug.log
 node_modules
+
+node.js/packages_example/node_modules
+webSocket_experiment/node_modules
